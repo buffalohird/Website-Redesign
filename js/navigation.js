@@ -1,4 +1,5 @@
 $(document).ready(function(){
+
     $('section[data-type="background"]').each(function(){
         var $bgobj = $(this); // assigning the object
      
@@ -11,5 +12,12 @@ $(document).ready(function(){
             // Move the background
             $bgobj.css({ backgroundPosition: coords });
         }); 
-    });    
+    });   
+
+    $('.projects_project').on('mouseover', function() {
+		that = $(event.target);
+        while (!that.hasClass("projects_project")) {
+        	that = $(that.parent())
+        }
+    });
 });
