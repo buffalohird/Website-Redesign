@@ -164,6 +164,38 @@ a:hover {
 
 }
 
+.index-photo {
+    display: block;
+    position: absolute;
+    left: 125px;
+    top: 125px;
+    height: 400px;
+    width: 300px;
+    border: 1px solid #333333;
+    border-radius: 5px;
+}
+
+.index-content {
+    display: block;
+    position: relative;
+    left: 500px;
+    top: 125px;
+    height: 400px;
+    width: 500px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 1px solid #333333;
+    border-radius: 5px;  
+}
+
+.index-link {
+    display: block;
+    position: relative;
+    font-size: 24px;
+    margin-bottom: 10px;
+    left: 15%;
+}
+
 .stretch 
 {
     width:100%;
@@ -438,9 +470,9 @@ font-weight: bold;
     background-color: #333333;
     text-align: center;
     padding-bottom: 1px;
-    top: 25px;
+    top: 50px;
     box-sizing: border-box;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 
 
 }
@@ -459,6 +491,55 @@ font-weight: bold;
 
 .resume-pdf
 {
+
+}
+
+.resume-row
+{
+    display: block;
+    position: relative;
+    width: 50%;
+    left: 25%;
+
+}
+
+.resume-row-title
+{
+    border-bottom: 1px solid #333333;
+}
+
+.resume-left
+{
+    position: relative;
+    display: inline-block;
+    left: 0;
+    line-height: 100%;
+
+}
+
+.resume-right
+{
+    position: relative;
+    display: inline-block;
+    right: 0;
+    line-height: 100%;
+    float: right;
+
+
+}
+
+.resume-row li
+{
+    left: 0;
+    line-height: 100%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.resume-row b
+{
+    font-size: 22px;
 
 }
 

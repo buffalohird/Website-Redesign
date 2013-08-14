@@ -1,0 +1,20 @@
+
+Buffalo Hirdhttp://buffalohird.com
+
+144 Currier Mail CenterCambridge, MA 02138buffalohird@college.harvard.edu(802) 917-2932
+Education
+Harvard UniversityB.A: Computer ScienceExpected Graduation 2015Cambridge, MA
+Harwood Union High SchoolHigh Honors, cumulative GPA: 4.32007-2011Duxbury, VT
+Technical Experience / Activities
+* Languages: C, Objective-C (and iOS) HTML5/CSS/JavaScript(jQuery/jQuery Mobile), LAMP (Linux, Apache, MySQL, PHP), Python, OCaml, Java* Software: Software experience with Word, PowerPoint, Excel, Stata* Design: Design experience with Photoshop, AutoCAD/3DSMAX* Systems: Hardware/Modding experience and Linux/Unix/Mac/Windows proficiency* Clubs: Member of HackHarvard – a programming and entrepreneurial club
+Technology InternSocrative (socrative.com)May 2013 - PresentCambridge, MA
+A smart student response system that empowers teachers. Helped to rebuild our platform from the ground up in Django, Backbone, and Phonegap.
+Technology / Founding MemberJam+Bread, LLCFebruary 2012 – December 2012Cambridge, MA / New York, NY
+Helped create and launch a socially conscious social media and music website with a proprietarypatent-pending sharing algorithm and economic model.  
+IT Security TechnicianHarvard SEASJanuary - July 2012Cambridge, MA
+Oversaw the auditing of files and document security of multiple Harvard graduate departments, providing suggested courses of action to improve department security.
+Pharmacology InternUniversity of VermontJune 2010 – September 2010Burlington, VT
+Worked running labs which observed the effects of different drug compounds upon the brain 
+Software DeveloperSelf EmployedNovember 2011 - PresentCambridge, MA
+I have taught myself objective-C (starting now with Android) and plan to begin releasingmy own apps this year. Current projects include a physics game and a location-based social app.Non-Technical Experience / Achievements
+* Winner of Harvard German A Student Award (2012)* National Kidney Association’s Future Achiever Award (2010)* Harwood Union GSA ‘co-refounder’* Guitarist for award winning Harwood Union Jazz Ensemble
